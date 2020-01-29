@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyDish",
-    "slug": "mydish-testing-publish",
+    "name": "RecipeShare",
+    "slug": "RecipeShare",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -9,7 +9,7 @@
       "android",
       "web"
     ],
-    "version": "0.8.0",
+    "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -25,10 +25,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "android": {
-      "package": "com.lambdaschool.mydish"
-    },
-    "description": ""
+    }
   }
 }
