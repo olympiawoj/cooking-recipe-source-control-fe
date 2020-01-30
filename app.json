@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RecipeShare",
-    "slug": "RecipeShare",
+    "name": "MyDish",
+    "slug": "mydish",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -11,11 +11,11 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/mydishicon.png",
     "splash": {
       "image": "./assets/Splashpage.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffffå"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
