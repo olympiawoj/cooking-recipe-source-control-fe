@@ -26,7 +26,8 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.lambdaschool.mydish",
-      "icon": "./assets/mydishiconwhite.png"
+      "icon": "./assets/mydishiconwhite.png",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "package": "com.lambdaschool.mydish"
